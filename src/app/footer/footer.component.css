@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    width:100% ;
+    background-color: rgb(230, 227, 72);
+    height: 50px;
+    color: rgb(13, 233, 68);
+    overflow: hidden;
+    padding: 20px 10px;
+}
+h4{
+    color: brown;
+    font-family:'Times New Roman', Times, serif;
+}
+a
+{
+    padding: 0px 5px;
+    font-size: 17px;
+}
+a:hover
+{
+    color: var(--primary-color);
+}
