@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "deploy":"ng b --prod --base-href https://arunp2022.github.io/Portfolio-website/ && npx ngh --dir=dist/my-portfolio"
     
   },
   "private": true,
